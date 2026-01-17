@@ -1,4 +1,4 @@
-# Bayn — Smart Tourism Landmarks System
+# Bayn 
 
 
 
@@ -26,11 +26,7 @@ The project consists of:
 
 ---
 
-##  Project Structure
-
-ogle Drive  
-
-> **Note:** Images used for training are available via a shared Google Drive folder for internal use.
+Project Structure
 
 Bayn/
 ├─ frontend/ ← Frontend files
