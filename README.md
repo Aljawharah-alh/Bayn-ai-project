@@ -56,7 +56,18 @@ The model was trained using a collection of Saudi landmark images and details.
 The dataset includes:
 
 * Landmark names, locations, categories, and descriptions  
-* Images of the landmarks stored in Google Drive  
+* Images of the landmarks stored in Google Drive
 
 > **Note:** Images used for training are available via a shared Google Drive folder for internal use.
 
+## Developers
+
+| Name | Contact |
+|------|---------|
+| **Tahani Alsmari** | [LinkedIn](http://www.linkedin.com/in/tahani-alsamari-2a0409344) |
+| **Aljawharah Alhuqbani** | [LinkedIn](https://www.linkedin.com/in/aljawharah-alhuqbani-74641a358?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) |
+| **Faris Alshunrani** | Email: farisedu9@gmail.com |
+| **Abdullah Al-Harbi** | Email: abod222355@gmail.com |
+| **Khalead Jaafari** | Email: Kmjaafari@outlook.com |
+| **Jnaa Rumaih** | Email: Jnaarumaih@gmail.com |
+| **Mudhawi Alshiha** | Email: mudhawialshiha@outlook.com |
